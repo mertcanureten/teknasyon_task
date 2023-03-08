@@ -1,4 +1,3 @@
-#Teknasyon Task
 
 ## Kurulum
 
